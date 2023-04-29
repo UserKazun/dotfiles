@@ -157,7 +157,7 @@ esac
 
 # vim:set ft=zsh:
 
-[[ -s "/Users/kazunari_ueeda/.gvm/scripts/gvm" ]] && source "/Users/kazunari_ueeda/.gvm/scripts/gvm"
+[[ -s "~/.gvm/scripts/gvm" ]] && source "~/.gvm/scripts/gvm"
 
 ## nodebrew
 export PATH=$HOME/.nodebrew/current/bin:$PATH
