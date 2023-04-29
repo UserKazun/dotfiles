@@ -1,0 +1,5 @@
+# SetUp
+
+```
+$ ./bin/setup.sh
+```
